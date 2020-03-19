@@ -1,4 +1,3 @@
-Learn more or give us feedback
 require 'nokogiri'
 
 def create_project_hash
